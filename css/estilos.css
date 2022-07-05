@@ -36,7 +36,27 @@ ul{
   padding: 20px 20px;
   box-sizing: content-box;
 }
-
+ /* The navigation bar */
+#navbar {
+  overflow: hidden;
+  background-color: #fad6d6;
+  position: fixed; 
+  top: 0;
+  left: 0;
+  width: 100%; 
+}
+#navbar a {
+  
+  display: block;
+  color: #5c5b5b;
+}
+#navbar a:hover {
+  background: #ddd;
+  color: rgb(53, 45, 45);
+}
+.main {
+  margin-top: 180px;
+} 
 .content__logo img{
   width: 130px;
   height: 130px;
@@ -71,6 +91,9 @@ ul{
   align-items: flex-start;
   text-align: center;
 }
+
+
+
 
 .texto{ 
   margin: auto;
@@ -564,16 +587,6 @@ footer{
 .index__img img{
   width: 220px;
   height: 392px;
-}
-#button{
-  width: 20px;
-  height: 20px;
-  margin: auto;
-  padding: 0%;
-}
-#bars{
-  width: 10px;
-  height: 10px;
 }
 #item-nav{
   font-size: 18px;
