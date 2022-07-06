@@ -336,8 +336,6 @@ footer section{
 
 .icon {
     position: relative;
-    width: 80px;
-    height: 80px;
     margin: 20px;
     border-radius: 50%;
     transition: all .8s;
@@ -358,17 +356,33 @@ footer{
   margin-top: 20px;
   margin-bottom: 20px;
 }
+.footer__cont{
+  max-width: 100%;
+  background-color: #fad6d6;
+  margin-top: 20px;
+}
 .alineado{
   vertical-align: middle;
 }
+
 .footer__h2{
   color: #f2e7f8;
   margin-top: 20px;
   text-align: center;
 }
-.footer__h4{
+.footer__trat__h4{
+  margin-top: 20px;
   color: #f2e7f8;
   text-align: center;
+}
+.footer__h4{
+  margin-top: 20px;
+  color: #0d0d0e;
+  text-align: center;
+}
+#iconos{
+  display: grid;
+  justify-content: center;
 }
 #footer__slider{
   background-color: #3f2e2e;
