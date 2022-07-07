@@ -1,0 +1,142 @@
+@-webkit-keyframes color-change-2x {
+	0% {
+		background: #dbf3f5;
+	}
+	100% {
+		background: #f2e7f8;
+	}
+}
+@keyframes color-change-2x {
+	0% {
+		background: #dbf3f5;
+	}
+	100% {
+		background: #f2e7f8;
+	}
+}
+@keyframes tracking-in-contract-bck-bottom {
+	0% {
+		letter-spacing: 1em;
+		-webkit-transform: translateZ(400px) translateY(300px);
+		transform: translateZ(400px) translateY(300px);
+		opacity: 0;
+	}
+	40% {
+		opacity: 0.6;
+	}
+	100% {
+		-webkit-transform: translateZ(0) translateY(0);
+		transform: translateZ(0) translateY(0);
+		opacity: 1;
+	}
+}
+@keyframes tracking-in-contract-bck-bottom {
+	0% {
+		letter-spacing: 1em;
+		-webkit-transform: translateZ(400px) translateY(300px);
+		transform: translateZ(400px) translateY(300px);
+		opacity: 0;
+	}
+	40% {
+		opacity: 0.6;
+	}
+	100% {
+		-webkit-transform: translateZ(0) translateY(0);
+		transform: translateZ(0) translateY(0);
+		opacity: 1;
+	}
+}
+@keyframes tracking-in-contract-bck-top {
+	0% {
+		letter-spacing: 1em;
+		-webkit-transform: translateZ(400px) translateY(-300px);
+		transform: translateZ(400px) translateY(-300px);
+		opacity: 0;
+	}
+	40% {
+		opacity: 0.6;
+	}
+	100% {
+		-webkit-transform: translateZ(0) translateY(0);
+		transform: translateZ(0) translateY(0);
+		opacity: 1;
+	}
+}
+@keyframes tracking-in-contract-bck-top {
+	0% {
+		letter-spacing: 1em;
+		-webkit-transform: translateZ(400px) translateY(-300px);
+		transform: translateZ(400px) translateY(-300px);
+		opacity: 0;
+	}
+	40% {
+		opacity: 0.6;
+	}
+	100% {
+		-webkit-transform: translateZ(0) translateY(0);
+		transform: translateZ(0) translateY(0);
+		opacity: 1;
+	}
+}
+@keyframes puff-in-center {
+	0% {
+		-webkit-transform: scale(2);
+		transform: scale(2);
+		-webkit-filter: blur(4px);
+		filter: blur(4px);
+		opacity: 0;
+	}
+	100% {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+		-webkit-filter: blur(0px);
+		filter: blur(0px);
+		opacity: 1;
+	}
+}
+@keyframes puff-in-center {
+	0% {
+		-webkit-transform: scale(2);
+		transform: scale(2);
+		-webkit-filter: blur(4px);
+		filter: blur(4px);
+		opacity: 0;
+	}
+	100% {
+		-webkit-transform: scale(1);
+		transform: scale(1);
+		-webkit-filter: blur(0px);
+		filter: blur(0px);
+		opacity: 1;
+	}
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+html {
+	height: 100%;
+}
+.facial {
+	display: flex;
+	margin: auto;
+}
+.body__corporal {
+	font-family: 'Kdam Thmor Pro', sans-serif;
+	background: url(../images/034LemonGate.png);
+	display: flex;
+}
+.corporal {
+	display: flex;
+	margin: auto;
+}
+p {
+	inline-size: auto;
+}
+a {
+	text-decoration: none;
+}
+ul {
+	list-style-type: none;
+}
