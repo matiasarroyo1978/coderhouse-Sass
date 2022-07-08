@@ -1,0 +1,158 @@
+@media (max-width:900px) {
+	.main__index__img {
+		padding-left: 0%;
+		img{
+		width: 320px;
+		height: 550px;
+		}
+	}
+	.main__texto__index__p {
+		display: flex;
+		flex-wrap: wrap;
+		font-size: 40px;
+	}
+	.main__texto__index__span {
+		display: flex;
+		flex-wrap: wrap;
+		font-size: 24px;
+		font-weight: bold;
+	}
+	.main__grid__contacto__mapa{
+		justify-content: center;
+		margin: auto;
+	}
+	.main__grid__contacto {
+		grid-template-columns: 1fr;
+		grid-template-areas: 
+		"form" 
+		"mapa" 
+		"datos";
+	}
+}
+		
+@media (max-width:550px) {
+	.main__index__img {
+		img{
+		width: 220px;
+		height: 392px;
+		}
+	}
+	.main__texto {
+		h1 {
+			font-size: 20px;
+		}
+		p {
+			font-size: 16px;
+		}
+	}
+	.main__h2__trat__faciales {
+		font-size: 20px;
+	}
+	.main__p__trat__faciales {
+		font-size: 16px;
+	}
+	.main__btn__borde {
+		font-size: 14px;
+	}
+	.main__form {
+		margin-left: 10px;
+		padding: 0%;
+	}
+	.main__circulo__fac {
+		width: 200px;
+		height: 200px;
+	}
+	
+	.main__circulo__corp {
+		width: 200px;
+		height: 200px;
+	}
+	.main__rect__fac {
+		width: 200px;
+		height: 200px;
+	}
+	.main__grid__faciales__item {
+		grid-template-columns: 1fr;
+		grid-template-areas: 
+		"imagen" 
+		"texto";
+	}
+	.main__grid__faciales_titulo {
+		display: flex;
+		flex-direction: column;
+		text-align: center;
+	}
+	footer {
+		max-width: 90%;
+		padding: auto;
+	}
+	.main__form__tittle {
+		font-size: 22px;
+	}
+	.main__form__input {
+		font-size: 16px;
+	}
+	.main_form__cta {
+		font-size: 14px;
+	}
+	.main__texto__nosotros {
+		p {
+			font-size: 16px;
+		}
+	}
+	.main__grid__contacto__mapa {
+		width: 550px;
+		margin-left: 0;
+	}
+	.main__mapa {
+		iframe{
+			width:  400px;
+			height: 350px;
+			margin-left: 10px;
+		}
+		
+	}
+	
+	#item-nav {
+		font-size: 18px;
+	}
+	.index__main__container {
+		display: flex;
+	}
+	.main__texto__index__p {
+		display: grid;
+		font-size: 18px;
+		align-content: center;
+	}
+	.main__texto__index__span {
+		display: grid;
+		font-size: 14px;
+		align-content: center;
+	}
+}
+@media (max-width:400px) {
+	.main__texto {
+		font-size: 26px;
+		justify-content: center;
+	}
+	.main__grid__contacto__mapa {
+		max-width: 400px;
+		margin-left: 0;
+	}
+	.main__mapa {
+		iframe{
+			width:  350px;
+			height: 300px;
+			margin-left: 10px;
+		}
+		
+	}
+	.main__form {
+		width: 350px;
+	}
+}
+
+
+@media (max-width:550px){
+	
+}

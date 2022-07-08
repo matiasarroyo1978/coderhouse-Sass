@@ -1,5 +1,5 @@
 .main {
-	margin-top: 120px;
+	margin-top: 180px;
     &__index__img{
         object-fit: cover;
 	    padding-left: 200px;
@@ -179,17 +179,13 @@
 	    border-radius: 1em;
 	    padding: 3.5em 1.5em;
     }
-    &__container{
-        width: 100%;
-	    display: grid;
-	    gap: .5em;
-	    grid-auto-columns: 100%;
-    }
-    &__form__titte{
-        text-align: center;
+	&__form__titte{
+        text-align: justify;
 	    font-size: 1.6rem;
 	    margin-bottom: .4em;
     }
+    
+    
     &__form__input{
         font-family: inherit;
 	    font-size: 1rem;
@@ -202,7 +198,7 @@
     }
     &__form__cta{
         font-family: inherit;
-	    font-size: 1.2rem;
+	    font-size: 1rem;
 	    background-color: #089fe0;
 	    color: #fff;
 	    border: none;
@@ -214,7 +210,12 @@
     &__mapa{
         margin: auto;
 	    border: 2px darkslategray;
+		iframe{
+			width: 500px;
+			height: 460px;
+		}
     }
+
     &__datos{
         margin: auto;
 	    text-align: center;
@@ -226,7 +227,12 @@
         vertical-align: middle;
     }
 }
-
+.container{
+    width: 100%;
+	display: grid;
+	gap: .5em;
+	grid-auto-columns: 100%;
+}
 #col-texto {
 	margin: auto;
 }
