@@ -1,20 +1,29 @@
 .header {
 	padding: 20px 20px;
 	box-sizing: content-box;
-}
-#navbar {
-	overflow: hidden;
-	background-color: #fad6d6;
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	a {
-		display: block;
-		color: #5c5b5b;
-		&:hover {
-			background: #ddd;
-			color: rgb(53, 45, 45);
+    &__content__logo{
+            img {
+		        width: 100px;
+		        height: 100px;
+		        margin: auto;
+	        }
+        }
+    #navbar{
+        overflow: hidden;
+	    background-color: #fad6d6;
+	    position: fixed;
+	    top: 0;
+	    left: 0;
+	    width: 100%;
+        
+	    a {
+		    display: block;
+		    color: #5c5b5b;
+		    &:hover {
+			    background: #ddd;
+			    color: rgb(53, 45, 45);
 		}
+        
 	}
+    }
 }

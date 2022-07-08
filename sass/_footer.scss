@@ -1,72 +1,86 @@
-.float {
-	position: fixed;
-	width: 60px;
-	height: 60px;
-	bottom: 40px;
-	right: 40px;
-	background-color: #25d366;
-	color: #FFF;
-	border-radius: 50px;
-	text-align: center;
-	font-size: 30px;
-	box-shadow: 2px 2px 3px #999;
-	z-index: 100;
-	&:hover {
-		text-decoration: none;
-		color: #25d366;
-		background-color: #fff;
-	}
-}
-.my-float {
-	margin-top: 16px;
-}
-
 footer {
 	font-family: 'Kdam Thmor Pro', sans-serif;
 	max-width: 1200px;
 	display: flex;
 	margin: auto;
 	justify-content: center;
+	.float{
+		position: fixed;
+		width: 60px;
+		height: 60px;
+		bottom: 40px;
+		right: 40px;
+		background-color: #25d366;
+		color: #FFF;
+		border-radius: 50px;
+		text-align: center;
+		font-size: 30px;
+		box-shadow: 2px 2px 3px #999;
+		z-index: 100;
+		&:hover {
+			text-decoration: none;
+			color: #25d366;
+			background-color: #fff;
+		}
+	}
+	.my-float{
+		margin-top: 16px;
+	}
 }
-.footer__trat {
+.footer {
 	max-width: 100%;
 	background-color: #3f2e2e;
 	margin-top: 20px;
 	margin-bottom: 20px;
-}
-.footer__cont {
-	max-width: 100%;
-	margin-top: 20px;
+	&__h2{
+		color: #f2e7f8;
+		margin-top: 20px;
+		text-align: center;
+	}
+	&__trat__h4{
+		margin-top: 20px;
+		color: #f2e7f8;
+		text-align: center;
+	}
+	
+	&__h4{
+		margin-top: 20px;
+		color: #0d0d0e;
+		text-align: center;
+	}
+	&__icon{
+		position: relative;
+		margin: 20px;
+		border-radius: 50%;
+		transition: all .8s;
+		cursor: pointer;
+	
+	}
+	
+	
+	
 }
 
-.footer__h2 {
-	color: #f2e7f8;
-	margin-top: 20px;
-	text-align: center;
-}
-.footer__trat__h4 {
-	margin-top: 20px;
-	color: #f2e7f8;
-	text-align: center;
-}
-.footer__h4 {
-	margin-top: 20px;
-	color: #0d0d0e;
-	text-align: center;
-}
-#iconos {
+.footer__cont{
+	&__cont{
+		max-width: 100%;
+		margin-top: 20px;
+	}
+	#iconos {
 	display: grid;
-	justify-content: center;
+	justify-items: center;
+}	
 }
-#footer__slider {
-	background-color: #3f2e2e;
-	margin-bottom: 20px;
-	max-height: 75px;
-	ul {
-		li {
-			img {
-				height: 36px;
+#slider{
+		background-color: #3f2e2e;
+		margin-bottom: 20px;
+		max-height: 75px;
+		ul {
+			li {
+				img {
+					height: 36px;
+				}
 			}
 		}
 	}
-}
+
