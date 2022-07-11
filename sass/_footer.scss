@@ -69,8 +69,20 @@ footer {
 	#iconos {
 	display: grid;
 	justify-items: center;
+	
 }	
 }
+.footer__span{
+	display: flex;
+	margin: auto;
+	max-width: 1200px;
+	justify-content: center;
+}
+.footer__span a{
+		
+		color: #202b24;
+		text-decoration: none;
+	}
 #slider{
 		background-color: #3f2e2e;
 		margin-bottom: 20px;
