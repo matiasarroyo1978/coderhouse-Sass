@@ -1,30 +1,8 @@
 .main {
-	margin-top: 180px;
-    &__index__img{
-        object-fit: cover;
-	    padding-left: 200px;
-	    grid-row: 1/1;
-    }
-    &__texto__index__p{
-        font-family: 'Alex Brush', cursive;
-	    font-size: 60px;
-	    color: $color-index;
-	    text-align: center;
-	    grid-row: 1/2;
-	    display: flex;
-	    align-items: flex-end;
-    }
-    &__texto__index__span{
-        font-family: 'Alex Brush', cursive;
-	    font-size: 36px;
-	    color: $color-index;
-	    grid-column: 2/2;
-	    display: flex;
-	    align-items: flex-start;
-	    text-align: center;
-    }
+	margin-top: 220px;
     &__texto{
-        margin: auto;
+        font-family: 'Kdam Thmor Pro', sans-serif;
+		margin: auto;
 	    margin: 20px;
 	    text-align: center;
 	    color: $color-texto;
@@ -236,8 +214,22 @@
 #col-texto {
 	margin: auto;
 }
-
-
+#index__img{
+	width: 380px;
+	height: 676px;
+}
+#texto__index{
+	font-family: 'Alex Brush', cursive;
+	color: $color-index;
+	font-size: 40px;
+	font-weight: bold;
+	&__h5{
+	font-family: 'Alex Brush', cursive;
+	color: $color-index;
+	font-size: 28px;
+	font-weight: bold;
+	}
+}
 
 #puff-in-center {
 	-webkit-animation: puff-in-center 1.7s cubic-bezier(0.470, 0.000, 0.745, 0.715) both;
@@ -255,3 +247,4 @@
 	-webkit-animation: color-change-2x 2s linear infinite alternate both;
 	animation: color-change-2x 2s linear infinite alternate both;
 }
+

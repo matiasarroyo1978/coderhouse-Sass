@@ -31,12 +31,12 @@
 }
 		
 @media (max-width:550px) {
-	.main__index__img {
-		img{
-		width: 220px;
-		height: 392px;
-		}
-	}
+	//.main__index__img {
+	//	img{
+	//	width: 220px;
+	//	height: 392px;
+	//	}
+	//}
 	.main__texto {
 		h1 {
 			font-size: 20px;
@@ -129,6 +129,10 @@
 		font-size: 14px;
 		align-content: center;
 	}
+	#index__img{
+		width: 350px;
+		height: 623px;
+	}
 }
 @media (max-width:400px) {
 	.main__texto {
@@ -150,9 +154,4 @@
 	.main__form {
 		width: 350px;
 	}
-}
-
-
-@media (max-width:550px){
-	
 }

@@ -124,8 +124,8 @@ ul {
   padding: 20px 20px;
   box-sizing: content-box; }
   .header__content__logo img {
-    width: 100px;
-    height: 100px;
+    width: 110px;
+    height: 110px;
     margin: auto; }
   .header #navbar {
     overflow: hidden;
@@ -142,28 +142,9 @@ ul {
         color: #352d2d; }
 
 .main {
-  margin-top: 180px; }
-  .main__index__img {
-    object-fit: cover;
-    padding-left: 200px;
-    grid-row: 1/1; }
-  .main__texto__index__p {
-    font-family: 'Alex Brush', cursive;
-    font-size: 60px;
-    color: #8c39eb;
-    text-align: center;
-    grid-row: 1/2;
-    display: flex;
-    align-items: flex-end; }
-  .main__texto__index__span {
-    font-family: 'Alex Brush', cursive;
-    font-size: 36px;
-    color: #8c39eb;
-    grid-column: 2/2;
-    display: flex;
-    align-items: flex-start;
-    text-align: center; }
+  margin-top: 220px; }
   .main__texto {
+    font-family: 'Kdam Thmor Pro', sans-serif;
     margin: auto;
     margin: 20px;
     text-align: center;
@@ -340,6 +321,21 @@ ul {
 #col-texto {
   margin: auto; }
 
+#index__img {
+  width: 380px;
+  height: 676px; }
+
+#texto__index {
+  font-family: 'Alex Brush', cursive;
+  color: #1ca3f1;
+  font-size: 40px;
+  font-weight: bold; }
+  #texto__index__h5 {
+    font-family: 'Alex Brush', cursive;
+    color: #1ca3f1;
+    font-size: 28px;
+    font-weight: bold; }
+
 #puff-in-center {
   -webkit-animation: puff-in-center 1.7s cubic-bezier(0.47, 0, 0.745, 0.715) both;
   animation: puff-in-center 1.7s cubic-bezier(0.47, 0, 0.745, 0.715) both; }
@@ -454,9 +450,6 @@ footer {
     grid-template-areas: "form"  "mapa"  "datos"; } }
 
 @media (max-width: 550px) {
-  .main__index__img img {
-    width: 220px;
-    height: 392px; }
   .main__texto h1 {
     font-size: 20px; }
   .main__texto p {
@@ -515,7 +508,10 @@ footer {
   .main__texto__index__span {
     display: grid;
     font-size: 14px;
-    align-content: center; } }
+    align-content: center; }
+  #index__img {
+    width: 350px;
+    height: 623px; } }
 
 @media (max-width: 400px) {
   .main__texto {
