@@ -3,3 +3,9 @@ $color-texto: rgb(27, 32, 32);
 $color-shadow: rgba(0, 0, 0, 0.8);
 $color-item: tomato;
 $color-boton: #304761;
+$breakpoints: (
+  small: 480px,
+  medium: 720px,
+  large: 960px,
+  wide: 1200px
+);

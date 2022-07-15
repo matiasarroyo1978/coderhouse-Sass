@@ -1,0 +1,27 @@
+@mixin circle {
+	box-sizing: border-box;
+	margin: auto;
+	border-radius: 100%;
+	border: 1px black dashed;
+	box-shadow: 0px 0px 50px 0px $color-shadow;
+	width: 300px;
+	height: 300px;
+}
+@mixin rect {
+	box-sizing: border-box;
+	margin: auto;
+	border: 1px black dashed;
+	box-shadow: 0px 0px 50px 0px $color-shadow;
+	width: 300px;
+	height: 300px;
+}
+
+@mixin breakpoint($name) {
+  @if not map-has-key($breakpoints, $name) {
+    @warn "Warning: `#{$name}` is not a valid breakpoint name.";
+  } @else {
+    @media (max-width: map-get($breakpoints, $name)) {
+      @content;
+    }
+  }
+}

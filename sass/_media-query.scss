@@ -1,4 +1,4 @@
-@media (max-width:900px) {
+@include breakpoint(large) {
 	.main__index__img {
 		padding-left: 0%;
 		img{
@@ -30,13 +30,7 @@
 	}
 }
 		
-@media (max-width:550px) {
-	//.main__index__img {
-	//	img{
-	//	width: 220px;
-	//	height: 392px;
-	//	}
-	//}
+@include breakpoint(medium) {
 	.main__texto {
 		h1 {
 			font-size: 20px;
@@ -101,7 +95,7 @@
 		}
 	}
 	.main__grid__contacto__mapa {
-		width: 550px;
+		width: 480px;
 		margin-left: 0;
 	}
 	.main__mapa {
@@ -134,7 +128,7 @@
 		height: 623px;
 	}
 }
-@media (max-width:400px) {
+@include breakpoint(small) {
 	.main__texto {
 		font-size: 26px;
 		justify-content: center;

@@ -1,22 +1,39 @@
+@import 'mixins';
+%heading{
+	font-family: 'Kdam Thmor Pro', sans-serif;
+	margin: auto;
+	margin: 20px;
+	text-align: center;
+	color: $color-texto;
+}
+%nosotros{
+	box-sizing: border-box;
+	margin: auto;
+	font-size: 28px;
+	padding: 80px;
+	text-align: center;
+	color: $color-texto;
+}
+%btn{
+	margin: auto;
+	font-size: 16px;
+	font-style: italic;
+	padding: .375rem .75rem;
+	border: 1px solid $color-boton;
+	border-radius: .25rem;
+	color: $color-boton;
+	transition: color .15s ease-in-out, background-color .15s ease-in-out;
+}
 .main {
 	margin-top: 220px;
     &__texto{
-        font-family: 'Kdam Thmor Pro', sans-serif;
-		margin: auto;
-	    margin: 20px;
-	    text-align: center;
-	    color: $color-texto;
+        @extend %heading;
 	    p {
 		   font-size: 18px;
 	    }
     }
     &__texto__nosotros{
-        box-sizing: border-box;
-	    margin: auto;
-	    font-size: 28px;
-	    padding: 80px;
-	    text-align: center;
-	    color: $color-texto;
+        @extend %nosotros;
 	    p {
 		    box-sizing: border-box;
 		    font-size: 20px;
@@ -27,30 +44,13 @@
 	    }
     }
     &__circulo__fac{
-        box-sizing: border-box;
-	    margin: auto;
-	    border-radius: 100%;
-	    border: 1px black dashed;
-	    box-shadow: 0px 0px 50px 0px $color-shadow;
-	    width: 300px;
-	    height: 300px;
+        @include circle();
     }
     &__circulo__corp{
-        box-sizing: border-box;
-	    margin: auto;
-	    border-radius: 100%;
-	    border: 1px black dashed;
-	    box-shadow: 0px 0px 50px 0px $color-shadow;
-	    width: 300px;
-	    height: 300px;
+        @include circle();
     }
     &__rect__fac{
-        box-sizing: border-box;
-	    margin: auto;
-	    border: 1px black dashed;
-	    box-shadow: 0px 0px 50px 0px $color-shadow;
-	    width: 300px;
-	    height: 300px;
+        @include rect();
     }
     &__trat__faciales{
         margin: auto;
@@ -70,14 +70,7 @@
 	    margin: 6px;
     }
     &__btn__borde{
-        margin: auto;
-	    font-size: 16px;
-	    font-style: italic;
-	    padding: .375rem .75rem;
-	    border: 1px solid $color-boton;
-	    border-radius: .25rem;
-	    color: $color-boton;
-	    transition: color .15s ease-in-out, background-color .15s ease-in-out;
+        @extend %btn;
 	    &:hover {
 		    color: rgb(248, 204, 204);
 		    background-color: $color-boton;

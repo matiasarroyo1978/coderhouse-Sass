@@ -141,30 +141,42 @@ ul {
         background: #ddd;
         color: #352d2d; }
 
+.main__texto {
+  font-family: 'Kdam Thmor Pro', sans-serif;
+  margin: auto;
+  margin: 20px;
+  text-align: center;
+  color: #1b2020; }
+
+.main__texto__nosotros {
+  box-sizing: border-box;
+  margin: auto;
+  font-size: 28px;
+  padding: 80px;
+  text-align: center;
+  color: #1b2020; }
+
+.main__btn__borde {
+  margin: auto;
+  font-size: 16px;
+  font-style: italic;
+  padding: .375rem .75rem;
+  border: 1px solid #304761;
+  border-radius: .25rem;
+  color: #304761;
+  transition: color .15s ease-in-out, background-color .15s ease-in-out; }
+
 .main {
   margin-top: 220px; }
-  .main__texto {
-    font-family: 'Kdam Thmor Pro', sans-serif;
-    margin: auto;
-    margin: 20px;
-    text-align: center;
-    color: #1b2020; }
-    .main__texto p {
-      font-size: 18px; }
-  .main__texto__nosotros {
+  .main__texto p {
+    font-size: 18px; }
+  .main__texto__nosotros p {
     box-sizing: border-box;
+    font-size: 20px;
+    font-weight: bold;
     margin: auto;
-    font-size: 28px;
-    padding: 80px;
     text-align: center;
-    color: #1b2020; }
-    .main__texto__nosotros p {
-      box-sizing: border-box;
-      font-size: 20px;
-      font-weight: bold;
-      margin: auto;
-      text-align: center;
-      max-width: 350px; }
+    max-width: 350px; }
   .main__circulo__fac {
     box-sizing: border-box;
     margin: auto;
@@ -203,24 +215,15 @@ ul {
     border: 3px solid tomato;
     color: tomato;
     margin: 6px; }
-  .main__btn__borde {
-    margin: auto;
-    font-size: 16px;
-    font-style: italic;
-    padding: .375rem .75rem;
-    border: 1px solid #304761;
-    border-radius: .25rem;
-    color: #304761;
-    transition: color .15s ease-in-out, background-color .15s ease-in-out; }
-    .main__btn__borde:hover {
-      color: #f8cccc;
-      background-color: #304761; }
-    .main__btn__borde:active {
-      color: #f8cccc;
-      background-color: #304761; }
-    .main__btn__borde:focus {
-      color: #f8cccc;
-      background-color: #304761; }
+  .main__btn__borde:hover {
+    color: #f8cccc;
+    background-color: #304761; }
+  .main__btn__borde:active {
+    color: #f8cccc;
+    background-color: #304761; }
+  .main__btn__borde:focus {
+    color: #f8cccc;
+    background-color: #304761; }
   .main__trat__corporales {
     margin: auto;
     box-sizing: border-box;
@@ -380,9 +383,9 @@ footer {
 
 .footer {
   max-width: 100%;
-  background-color: #3f2e2e;
   margin-top: 20px;
-  margin-bottom: 20px; }
+  margin-top: 20px;
+  background-color: #3f2e2e; }
   .footer__h2 {
     color: #f2e7f8;
     margin-top: 20px;
@@ -402,13 +405,18 @@ footer {
     transition: all .8s;
     cursor: pointer; }
 
-.footer__cont__cont {
+.footer__nos {
   max-width: 100%;
+  margin-top: 20px;
   margin-top: 20px; }
 
-.footer__cont #iconos {
-  display: grid;
-  justify-items: center; }
+.footer__cont {
+  max-width: 100%;
+  margin-top: 20px;
+  margin-top: 20px; }
+  .footer__cont #iconos {
+    display: grid;
+    justify-items: center; }
 
 .footer__span {
   display: flex;
@@ -427,7 +435,7 @@ footer {
   #slider ul li img {
     height: 36px; }
 
-@media (max-width: 900px) {
+@media (max-width: 960px) {
   .main__index__img {
     padding-left: 0%; }
     .main__index__img img {
@@ -449,7 +457,7 @@ footer {
     grid-template-columns: 1fr;
     grid-template-areas: "form"  "mapa"  "datos"; } }
 
-@media (max-width: 550px) {
+@media (max-width: 720px) {
   .main__texto h1 {
     font-size: 20px; }
   .main__texto p {
@@ -491,7 +499,7 @@ footer {
   .main__texto__nosotros p {
     font-size: 16px; }
   .main__grid__contacto__mapa {
-    width: 550px;
+    width: 480px;
     margin-left: 0; }
   .main__mapa iframe {
     width: 400px;
@@ -513,7 +521,7 @@ footer {
     width: 350px;
     height: 623px; } }
 
-@media (max-width: 400px) {
+@media (max-width: 480px) {
   .main__texto {
     font-size: 26px;
     justify-content: center; }
