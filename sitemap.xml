@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/issues</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/pulls</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/actions</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/projects?type=beta</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/security</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/e42b813fabe70365bcbdb600108c52b1ca89e974</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/blob/main/.gitignore</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/blob/main/index.html</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/blob/main/package-lock.json</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/blob/main/package.json</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/releases</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/compare</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/projects?type=classic</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/security/policy</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/security/advisories</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/7bc33dcbfb7401442e0c5e9942ddc2250bf30c3b</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/blob/e42b813fabe70365bcbdb600108c52b1ca89e974/.gitignore</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/find/main</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/blob/e42b813fabe70365bcbdb600108c52b1ca89e974/index.html</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/blob/e42b813fabe70365bcbdb600108c52b1ca89e974/package-lock.json</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/blob/e42b813fabe70365bcbdb600108c52b1ca89e974/package.json</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels?sort=name-asc</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels?sort=name-desc</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels?sort=count-desc</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels?sort=count-asc</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels/bug</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels/documentation</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels/duplicate</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels/enhancement</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels/good%20first%20issue</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels/help%20wanted</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels/invalid</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels/question</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/labels/wontfix</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?state=open</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?state=closed</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/security/advisories?state=published</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/886be88b6cad94626a3cedc62545f34db24cedf3</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/find/e42b813fabe70365bcbdb600108c52b1ca89e974</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/882824bd5ef195d4875d39a9445dd0a8d860f09e</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/6fb1b157f51538b3b6b8982b858632225808acf7</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/2c72b0af27c72e153a7f703dfcecfa7c5512d2e9</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/e6cdb29e73ed6be0b05d163ee7cf1054725bb7f9</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/99e5f54a2f6d172fcf17ab0898a6bf789686d405</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.17</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/eca18db7d3e46b183ce67ff72f67c5b3c0e9c835</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.13</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/9970caa69b14391b03df7b5c319932ed99261858</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.11</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/cc237e0b67952457b56d2d2fc594ba2b098b73bf</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.09</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/bd33fd387e8144c19bf70ad0729e16b45ec6b579</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.07</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/8e1214d7ebd8dfe691d8725a8fb57c7a7fcfbf56</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.05</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/e736ef74c579ee620d40dabb22e35a34c61eeff2</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/0787c78e7079afb97e3d809aed3f1f2a8efbb0d9</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.04</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/5734162f5dacc2678414ab1016cb210c8b67b8e8</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.03</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/2c08895ee64d70b3b6bd8942ddebbb3252166a56</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/b7496109eb8241633ffe90bb76093bede46470cf</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.02</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/8a3725ca3e95334dbbc3a76c1672328b0bd4feb3</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/11bbf0490fa286ba0157b7204ed3637ca9bbfbc8</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+<url>
+  <loc>https://github.com/matiasarroyo1978/coderhouse-Sass/commit/6aa11b8ab15b33197847a7b36df41713aea33d68</loc>
+  <lastmod>2022-07-15T18:18:58+00:00</lastmod>
+  <priority>0.01</priority>
+</url>
+
+
+</urlset>
