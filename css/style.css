@@ -98,19 +98,6 @@
 html {
   height: 100%; }
 
-.facial {
-  display: flex;
-  margin: auto; }
-
-.body__corporal {
-  font-family: 'Kdam Thmor Pro', sans-serif;
-  background: url(../images/034LemonGate.png);
-  display: flex; }
-
-.corporal {
-  display: flex;
-  margin: auto; }
-
 p {
   inline-size: auto; }
 
