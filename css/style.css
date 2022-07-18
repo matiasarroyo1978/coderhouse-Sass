@@ -120,7 +120,8 @@ ul {
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%; }
+    width: 100%;
+    z-index: 1000; }
     .header #navbar a {
       display: block;
       color: #5c5b5b; }
@@ -370,8 +371,7 @@ footer {
 
 .footer {
   max-width: 100%;
-  margin-top: 20px;
-  margin-top: 20px;
+  margin-bottom: 20px;
   background-color: #3f2e2e; }
   .footer__h2 {
     color: #f2e7f8;
@@ -394,13 +394,11 @@ footer {
 
 .footer__nos {
   max-width: 100%;
-  margin-top: 20px;
-  margin-top: 20px; }
+  margin-bottom: 20px; }
 
 .footer__cont {
   max-width: 100%;
-  margin-top: 20px;
-  margin-top: 20px; }
+  margin-bottom: 20px; }
   .footer__cont #iconos {
     display: grid;
     justify-items: center; }
