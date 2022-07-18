@@ -15,7 +15,10 @@
 	width: 300px;
 	height: 300px;
 }
-
+@mixin image{
+	width: 380px;
+	height: 676px;
+}
 @mixin breakpoint($name) {
   @if not map-has-key($breakpoints, $name) {
     @warn "Warning: `#{$name}` is not a valid breakpoint name.";

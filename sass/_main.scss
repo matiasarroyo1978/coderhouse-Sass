@@ -25,7 +25,6 @@
 	transition: color .15s ease-in-out, background-color .15s ease-in-out;
 }
 .main {
-	margin-top: 220px;
     &__texto{
         @extend %heading;
 	    p {
@@ -208,8 +207,11 @@
 	margin: auto;
 }
 #index__img{
-	width: 380px;
-	height: 676px;
+	@include image();
+}
+#index__img1{
+	margin-top: 50px;
+	@include image();
 }
 #texto__index{
 	font-family: 'Alex Brush', cursive;
