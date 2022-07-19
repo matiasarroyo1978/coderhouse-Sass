@@ -25,7 +25,7 @@
 	transition: color .15s ease-in-out, background-color .15s ease-in-out;
 }
 .main {
-	margin-top: 150px;
+	margin-top: 120px;
     &__texto{
         @extend %heading;
 	    p {
@@ -199,7 +199,7 @@
     }
 }
 .main__index{
-	margin-top: 150px;
+	margin-top: 120px;
 }
 .container{
     width: 100%;
