@@ -25,6 +25,7 @@
 	transition: color .15s ease-in-out, background-color .15s ease-in-out;
 }
 .main {
+	margin-top: 220px;
     &__texto{
         @extend %heading;
 	    p {
