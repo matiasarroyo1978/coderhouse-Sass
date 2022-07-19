@@ -155,7 +155,7 @@ ul {
   transition: color .15s ease-in-out, background-color .15s ease-in-out; }
 
 .main {
-  margin-top: 220px; }
+  margin-top: 200px; }
   .main__texto p {
     font-size: 18px; }
   .main__texto__nosotros p {
@@ -302,6 +302,9 @@ ul {
     line-height: 1cm; }
   .main__alineado {
     vertical-align: middle; }
+
+.main__index {
+  margin-top: 220px; }
 
 .container {
   width: 100%;

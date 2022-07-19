@@ -25,7 +25,7 @@
 	transition: color .15s ease-in-out, background-color .15s ease-in-out;
 }
 .main {
-	margin-top: 220px;
+	margin-top: 200px;
     &__texto{
         @extend %heading;
 	    p {
@@ -197,6 +197,9 @@
     &__alineado{
         vertical-align: middle;
     }
+}
+.main__index{
+	margin-top: 220px;
 }
 .container{
     width: 100%;
