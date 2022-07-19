@@ -525,4 +525,10 @@ footer {
     height: 300px;
     margin-left: 10px; }
   .main__form {
-    width: 350px; } }
+    width: 350px; }
+  #index__img {
+    width: 200px;
+    height: 356px; }
+  #index__img1 {
+    width: 200px;
+    height: 356px; } }
