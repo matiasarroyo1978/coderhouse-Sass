@@ -516,10 +516,7 @@ footer {
   .main__texto__index__span {
     display: grid;
     font-size: 14px;
-    align-content: center; }
-  #index__img {
-    width: 350px;
-    height: 623px; } }
+    align-content: center; } }
 
 @media (max-width: 480px) {
   .main {
