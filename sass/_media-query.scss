@@ -129,7 +129,12 @@
 	}
 }
 @include breakpoint(small) {
-
+	.main{
+		margin-top: 50px;
+	}
+	.main__index{
+		margin-top: 40px;
+	}
 	.main__texto {
 		font-size: 26px;
 		justify-content: center;
@@ -150,11 +155,24 @@
 		width: 350px;
 	}
 	#index__img{
-		width: 300px;
-		height: 534px;
+		width: 220px;
+		height: 391px;
 	}
 	#index__img1{
-		width: 300px;
-		height: 534px;
+		width: 220px;
+		height: 391px;
+	}
+	#texto__index{
+		font-size: 28px;
+		&__h5{
+		font-size: 18px;
+		}
+	}
+	.header__content__logo img{
+		width: 60px;
+		height: 60px;
+	}
+	#button__sld{
+		display: none;
 	}
 }
