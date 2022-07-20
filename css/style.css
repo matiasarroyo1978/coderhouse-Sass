@@ -429,6 +429,13 @@ footer {
     height: 36px; }
 
 @media (max-width: 960px) {
+  .main {
+    margin-top: 50px; }
+  .main__index {
+    margin-top: 40px; }
+  .header__content__logo img {
+    width: 60px;
+    height: 60px; }
   .main__index__img {
     padding-left: 0%; }
     .main__index__img img {
@@ -451,13 +458,6 @@ footer {
     grid-template-areas: "form"  "mapa"  "datos"; } }
 
 @media (max-width: 720px) {
-  .main {
-    margin-top: 50px; }
-  .main__index {
-    margin-top: 40px; }
-  .header__content__logo img {
-    width: 60px;
-    height: 60px; }
   .main__texto h1 {
     font-size: 20px; }
   .main__texto p {

@@ -1,4 +1,14 @@
 @include breakpoint(large) {
+	.main{
+		margin-top: 50px;
+	}
+	.main__index{
+		margin-top: 40px;
+	}
+	.header__content__logo img{
+		width: 60px;
+		height: 60px;
+	}
 	.main__index__img {
 		padding-left: 0%;
 		img{
@@ -31,16 +41,6 @@
 }
 		
 @include breakpoint(medium) {
-	.main{
-		margin-top: 50px;
-	}
-	.main__index{
-		margin-top: 40px;
-	}
-	.header__content__logo img{
-		width: 60px;
-		height: 60px;
-	}
 	.main__texto {
 		h1 {
 			font-size: 20px;
