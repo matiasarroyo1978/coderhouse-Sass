@@ -428,6 +428,9 @@ footer {
   #slider ul li img {
     height: 36px; }
 
+#small {
+  text-align: center; }
+
 @media (max-width: 960px) {
   .main {
     margin-top: 50px; }
