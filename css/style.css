@@ -542,4 +542,7 @@ footer {
     width: 60px;
     height: 60px; }
   #button__sld {
-    display: none; } }
+    display: none; }
+  #bars {
+    width: 20px;
+    height: 20px; } }
