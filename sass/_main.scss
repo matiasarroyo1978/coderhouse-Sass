@@ -100,10 +100,6 @@
 	    max-width: 1200px;
 	    grid-template-areas: "form mapa" "none datos";
     }
-    &__grid__contacto__datos{
-        grid-area: datos;
-	    font-weight: bold;
-    }
     &__grid__contacto__form{
         grid-area: form;
     }
@@ -185,17 +181,6 @@
 			width: 500px;
 			height: 460px;
 		}
-    }
-
-    &__datos{
-        margin: auto;
-	    text-align: center;
-	    color: #0a0a0a;
-	    list-style: none;
-	    line-height: 1cm;
-    }
-    &__alineado{
-        vertical-align: middle;
     }
 }
 .main__index{
