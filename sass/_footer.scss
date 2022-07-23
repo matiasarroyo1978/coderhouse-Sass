@@ -14,23 +14,40 @@ footer {
 		height: 60px;
 		bottom: 40px;
 		right: 40px;
-		background-color: #25d366;
+		background-color: $color-whats;
 		color: #FFF;
 		border-radius: 50px;
 		text-align: center;
 		font-size: 30px;
-		box-shadow: 2px 2px 3px #999;
+		box-shadow: $box-shadow;
 		z-index: 100;
 		&:hover {
 			text-decoration: none;
-			color: #25d366;
+			color: $color-whats;
 			background-color: #fff;
 		}
 	}
 	.my-float{
 		margin-top: 16px;
 	}
-	
+	.face{
+		box-shadow: $box-shadow;
+		&:hover{
+			color:$color-face;
+		}
+	}
+	.inst{
+		box-shadow: $box-shadow;
+		&:hover{
+			color: $color-inst;
+		}
+	}
+	.whats{
+		box-shadow: $box-shadow;
+		&:hover{
+			color:$color-whats;
+		}
+	}
 }
 .footer {
 	@include foot();

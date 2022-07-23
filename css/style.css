@@ -365,6 +365,18 @@ footer {
       background-color: #fff; }
   footer .my-float {
     margin-top: 16px; }
+  footer .face {
+    box-shadow: 2px 2px 3px #999; }
+    footer .face:hover {
+      color: #2828f7; }
+  footer .inst {
+    box-shadow: 2px 2px 3px #999; }
+    footer .inst:hover {
+      color: #db3434; }
+  footer .whats {
+    box-shadow: 2px 2px 3px #999; }
+    footer .whats:hover {
+      color: #25d366; }
 
 .footer {
   max-width: 100%;
