@@ -401,10 +401,6 @@ footer {
     transition: all .8s;
     cursor: pointer; }
 
-.footer__nos {
-  max-width: 100%;
-  margin-bottom: 20px; }
-
 .footer__cont {
   max-width: 100%;
   margin-bottom: 20px; }
